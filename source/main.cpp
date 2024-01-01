@@ -5,7 +5,7 @@
 int main([[maybe_unused]] int argc, [[maybe_unused]] char* argv[])
 try
 {
-    GLApp OpenGLApplication("Tutorial 0 for STUDENT.NAME: Setting up OpenGL");
+    GLApp& OpenGLApplication = GLApp::GLAppInstance();
 
     while (!OpenGLApplication.IsDone())
     {

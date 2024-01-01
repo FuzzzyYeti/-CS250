@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e3c61c54c6cdc06b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a921f556ec0e4c",
+        "type": "tabs",
+        "dimension": 38.08724832214765,
+        "children": [
+          {
+            "id": "20edf6dbd6a82ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universial Fowarding Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6780b92b8875bf0",
+        "type": "tabs",
+        "dimension": 28.60738255033557,
+        "children": [
+          {
+            "id": "88451762c1729fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GLApp.cpp.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "d113fe7a618567f4"
+          }
+        ]
+      },
+      {
+        "id": "67b26cba9decefc3",
+        "type": "tabs",
+        "dimension": 33.30536912751678,
+        "children": [
+          {
+            "id": "dbdfae6dc937c222",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "GLApp.cpp.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "d113fe7a618567f4"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aafb2935aa3d184",
+    "type": "split",
+    "children": [
+      {
+        "id": "960624d186296513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfd063b35836bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb546c2e2d1209a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b73eb4f1ea166767",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ac1d3da207e7d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e31f59c0a09d175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d4a268564291c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Universial Fowarding Reference.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41699b17af37fdf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Universial Fowarding Reference.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ab64046cc5dccd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7d11536bf278319",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Universial Fowarding Reference.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "dbdfae6dc937c222",
+  "lastOpenFiles": [
+    "GLApp.h.md",
+    "GLApp.cpp.md",
+    "Universial Fowarding Reference.md",
+    "Variadic template.md",
+    "Fold Expression.md",
+    "C++ if with Initialization.md",
+    "Lvalue - Rvaleu.md"
+  ]
+}

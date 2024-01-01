@@ -25,7 +25,8 @@ namespace
         }
     }
 
-    template <typename... Messages> [[noreturn]] void throw_error_message(Messages&&... more_messages)
+    template <typename... Messages> [[noreturn]] 
+    void throw_error_message(Messages&&... more_messages)
     {
         std::ostringstream sout;
         (sout << ... << more_messages);
